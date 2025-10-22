@@ -99,7 +99,6 @@ class CustomUserAdmin(UserAdmin):
                 "fields": (
                     "username",
                     "phone",
-                    "date_joined",
                     "gender",
                     "password1",
                     "password2",
